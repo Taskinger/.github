@@ -44,8 +44,6 @@ Planned enhancements:
 
 - Redux Toolkit or Zustand for state management  
 - Tailwind CSS for styling  
-- Real-time updates using Socket.IO  
-- File uploads via Cloudinary or Firebase  
 - JWT or OAuth-based authentication  
 
 ---
